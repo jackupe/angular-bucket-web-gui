@@ -4,7 +4,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Initialization 
 
+
 After git checkout run `npm install` 
+
+To install angular client `npm install -g @angular/cli@latest`
 
 ## Development server
 
